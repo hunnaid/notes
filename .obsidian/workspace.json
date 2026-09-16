@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fall-2026/6.5940/lectures/L2.md",
+                "file": "fall-2026/6.4212/lectures/L2.md",
                 "mode": "source",
                 "source": false
               },
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fall-2026/6.5940/lectures/L2.md",
+                "file": "fall-2026/6.4212/lectures/L2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "fall-2026/6.5940/lectures/L2.md",
+                "file": "fall-2026/6.4212/lectures/L2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fall-2026/6.5940/lectures/L2.md",
+                "file": "fall-2026/6.4212/lectures/L2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -191,16 +191,18 @@
   },
   "active": "2a6d829b6999cc43",
   "lastOpenFiles": [
+    "attachments/Pasted image 20260915232459.png",
+    "attachments/Pasted image 20260915231959.png",
+    "attachments/Pasted image 20260915231949.png",
+    "attachments/Pasted image 20260915231324.png",
+    "attachments/Pasted image 20260915231206.png",
+    "attachments/Pasted image 20260915231057.png",
+    "fall-2026/6.5940/lectures/L2.md",
     "attachments/Pasted image 20260915220959.png",
     "attachments/20260915220335.png",
     "attachments/Pasted image 20260915220335.png",
     "attachments/Pasted image 20260915165724.png",
-    "fall-2026/6.5940/lectures/L2.md",
     "attachments/Pasted image 20260915170116.png",
-    "attachments/Pasted image 20260915170059.png",
-    "attachments",
-    "attachments/Pasted image 20260915165943.png",
-    "attachments/Pasted image 20260915165930.png",
-    "attachments/Pasted image 20260915165911.png"
+    "attachments"
   ]
 }
