@@ -1,4 +1,4 @@
-# class notes
+# Notes
 
 ## Fall 2026
 
